@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Ders1_hello_world\Ders1_hello_world\bin\Debug\net8.0-windows\Ders1_hello_world.exe
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Ders1_hello_world\Ders1_hello_world\bin\Debug\net8.0-windows\Ders1_hello_world.deps.json
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Ders1_hello_world\Ders1_hello_world\bin\Debug\net8.0-windows\Ders1_hello_world.runtimeconfig.json
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Ders1_hello_world\Ders1_hello_world\bin\Debug\net8.0-windows\Ders1_hello_world.dll
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Ders1_hello_world\Ders1_hello_world\bin\Debug\net8.0-windows\Ders1_hello_world.pdb
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Ders1_hello_world\Ders1_hello_world\obj\Debug\net8.0-windows\Ders1_hello_world.Form1.resources
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Ders1_hello_world\Ders1_hello_world\obj\Debug\net8.0-windows\Ders1_hello_world.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Ders1_hello_world\Ders1_hello_world\obj\Debug\net8.0-windows\Ders1_hello_world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Ders1_hello_world\Ders1_hello_world\obj\Debug\net8.0-windows\Ders1_hello_world.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Ders1_hello_world\Ders1_hello_world\obj\Debug\net8.0-windows\Ders1_hello_world.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Ders1_hello_world\Ders1_hello_world\obj\Debug\net8.0-windows\Ders1_hello_world.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Ders1_hello_world\Ders1_hello_world\obj\Debug\net8.0-windows\Ders1_hello_world.dll
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Ders1_hello_world\Ders1_hello_world\obj\Debug\net8.0-windows\refint\Ders1_hello_world.dll
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Ders1_hello_world\Ders1_hello_world\obj\Debug\net8.0-windows\Ders1_hello_world.pdb
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Ders1_hello_world\Ders1_hello_world\obj\Debug\net8.0-windows\Ders1_hello_world.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Ders1_hello_world\Ders1_hello_world\obj\Debug\net8.0-windows\ref\Ders1_hello_world.dll

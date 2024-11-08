@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders4_Radiobutton_Richtextbox_Panel_Groupbox", "Ders4_Radiobutton_Richtextbox_Panel_Groupbox\Ders4_Radiobutton_Richtextbox_Panel_Groupbox.csproj", "{86224F48-615C-4A5B-86FE-BED20D66A401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86224F48-615C-4A5B-86FE-BED20D66A401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86224F48-615C-4A5B-86FE-BED20D66A401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86224F48-615C-4A5B-86FE-BED20D66A401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86224F48-615C-4A5B-86FE-BED20D66A401}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {152BD32B-9314-4ED1-BB87-229498E6542B}
+	EndGlobalSection
+EndGlobal

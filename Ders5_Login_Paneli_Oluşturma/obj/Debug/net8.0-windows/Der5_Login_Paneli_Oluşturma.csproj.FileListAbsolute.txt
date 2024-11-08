@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Der5_Login_Paneli_Oluşturma\Der5_Login_Paneli_Oluşturma\bin\Debug\net8.0-windows\Der5_Login_Paneli_Oluşturma.exe
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Der5_Login_Paneli_Oluşturma\Der5_Login_Paneli_Oluşturma\bin\Debug\net8.0-windows\Der5_Login_Paneli_Oluşturma.deps.json
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Der5_Login_Paneli_Oluşturma\Der5_Login_Paneli_Oluşturma\bin\Debug\net8.0-windows\Der5_Login_Paneli_Oluşturma.runtimeconfig.json
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Der5_Login_Paneli_Oluşturma\Der5_Login_Paneli_Oluşturma\bin\Debug\net8.0-windows\Der5_Login_Paneli_Oluşturma.dll
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Der5_Login_Paneli_Oluşturma\Der5_Login_Paneli_Oluşturma\bin\Debug\net8.0-windows\Der5_Login_Paneli_Oluşturma.pdb
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Der5_Login_Paneli_Oluşturma\Der5_Login_Paneli_Oluşturma\obj\Debug\net8.0-windows\Der5_Login_Paneli_Oluşturma.Form1.resources
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Der5_Login_Paneli_Oluşturma\Der5_Login_Paneli_Oluşturma\obj\Debug\net8.0-windows\Der5_Login_Paneli_Oluşturma.Properties.Resources.resources
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Der5_Login_Paneli_Oluşturma\Der5_Login_Paneli_Oluşturma\obj\Debug\net8.0-windows\Der5_Login_Paneli_Oluşturma.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Der5_Login_Paneli_Oluşturma\Der5_Login_Paneli_Oluşturma\obj\Debug\net8.0-windows\Der5_Login_Paneli_Oluşturma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Der5_Login_Paneli_Oluşturma\Der5_Login_Paneli_Oluşturma\obj\Debug\net8.0-windows\Der5_Login_Paneli_Oluşturma.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Der5_Login_Paneli_Oluşturma\Der5_Login_Paneli_Oluşturma\obj\Debug\net8.0-windows\Der5_Login_Paneli_Oluşturma.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Der5_Login_Paneli_Oluşturma\Der5_Login_Paneli_Oluşturma\obj\Debug\net8.0-windows\Der5_Login_Paneli_Oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Der5_Login_Paneli_Oluşturma\Der5_Login_Paneli_Oluşturma\obj\Debug\net8.0-windows\Der5_Login_Paneli_Oluşturma.dll
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Der5_Login_Paneli_Oluşturma\Der5_Login_Paneli_Oluşturma\obj\Debug\net8.0-windows\refint\Der5_Login_Paneli_Oluşturma.dll
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Der5_Login_Paneli_Oluşturma\Der5_Login_Paneli_Oluşturma\obj\Debug\net8.0-windows\Der5_Login_Paneli_Oluşturma.pdb
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Der5_Login_Paneli_Oluşturma\Der5_Login_Paneli_Oluşturma\obj\Debug\net8.0-windows\Der5_Login_Paneli_Oluşturma.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\C# İLE MASAÜSTÜ UYGULAMA GELİŞTİRM\Der5_Login_Paneli_Oluşturma\Der5_Login_Paneli_Oluşturma\obj\Debug\net8.0-windows\ref\Der5_Login_Paneli_Oluşturma.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders3_MaskedTextBox_PictureBox_Datetimepicker", "Ders3_MaskedTextBox_PictureBox_Datetimepicker\Ders3_MaskedTextBox_PictureBox_Datetimepicker.csproj", "{0ABA06AE-E6AA-4A73-9B93-1053D0BBFBF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ABA06AE-E6AA-4A73-9B93-1053D0BBFBF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ABA06AE-E6AA-4A73-9B93-1053D0BBFBF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ABA06AE-E6AA-4A73-9B93-1053D0BBFBF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ABA06AE-E6AA-4A73-9B93-1053D0BBFBF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BDF1481-9474-4FA1-813B-963E5AE1A025}
+	EndGlobalSection
+EndGlobal

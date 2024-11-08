@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\Ders2_Combobox_Listbox\Ders2_Combobox_Listbox\bin\Debug\Ders2_Combobox_Listbox.exe.config
+C:\Users\ASUS\source\repos\Ders2_Combobox_Listbox\Ders2_Combobox_Listbox\bin\Debug\Ders2_Combobox_Listbox.exe
+C:\Users\ASUS\source\repos\Ders2_Combobox_Listbox\Ders2_Combobox_Listbox\bin\Debug\Ders2_Combobox_Listbox.pdb
+C:\Users\ASUS\source\repos\Ders2_Combobox_Listbox\Ders2_Combobox_Listbox\obj\Debug\Ders2_Combobox_Listbox.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Ders2_Combobox_Listbox\Ders2_Combobox_Listbox\obj\Debug\Ders2_Combobox_Listbox.Form1.resources
+C:\Users\ASUS\source\repos\Ders2_Combobox_Listbox\Ders2_Combobox_Listbox\obj\Debug\Ders2_Combobox_Listbox.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Ders2_Combobox_Listbox\Ders2_Combobox_Listbox\obj\Debug\Ders2_Combobox_Listbox.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Ders2_Combobox_Listbox\Ders2_Combobox_Listbox\obj\Debug\Ders2_Combobox_Listbox.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Ders2_Combobox_Listbox\Ders2_Combobox_Listbox\obj\Debug\Ders2_Combobox_Listbox.exe
+C:\Users\ASUS\source\repos\Ders2_Combobox_Listbox\Ders2_Combobox_Listbox\obj\Debug\Ders2_Combobox_Listbox.pdb
